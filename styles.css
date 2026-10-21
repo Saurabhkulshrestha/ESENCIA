@@ -21,3 +21,6 @@
 .collection-feature p{font-size:12px;color:#66615a;line-height:1.6;max-width:600px}
 .collection-feature .cream-bottom{margin-top:auto}
 @media(max-width:760px){.collection-feature-grid{grid-template-columns:1fr}.skincare-collection .cream-intro{grid-template-columns:1fr}}
+
+/* Collection product detail links */
+.collection-product-link{display:inline-block;margin-top:18px;color:var(--ink);font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;border-bottom:1px solid var(--gold);padding-bottom:6px}.collection-product-link:hover{opacity:.7}.collection-link-wrap{padding:0 0 24px}
